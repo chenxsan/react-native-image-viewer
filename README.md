@@ -15,7 +15,7 @@ npm install react-native-image-viewer --save
 
 ## Usage
 
-Check the [example]() repository.
+Check the [example](https://github.com/chenxsan/react-native-image-viewer-example/blob/master/index.ios.js) repository.
 
 ## Screenshot
 
