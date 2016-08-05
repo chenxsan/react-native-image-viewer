@@ -1,0 +1,29 @@
+{
+  "name": "react-native-image-viewer",
+  "version": "0.0.1",
+  "description": "Displaying multiple images in fullscreen mode that you can swipe through.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenxsan/react-native-image-viewer.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Sam Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chenxsan/react-native-image-viewer/issues"
+  },
+  "homepage": "https://github.com/chenxsan/react-native-image-viewer#readme",
+  "dependencies": {
+    "react-native-image-progress": "^0.6.0"
+  },
+  "peerDependencies": {
+    "react": "^15.2.1",
+    "react-native": "^0.30.0"
+  }
+}
